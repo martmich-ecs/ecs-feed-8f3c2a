@@ -1,8 +1,15 @@
 {
-  "timestamp": "...",
-  "cash_balance": 100,
-  "portfolio_value": 0,
-  "positions": [],
+  "ok": true,
+  "timestamp": "2026-08-21T21:10:39.778Z",
+  "account": {
+    "cash_balance_dollars": "100.0000",
+    "cash_balance_cents": 10000,
+    "portfolio_value_cents": 0
+  },
+  "positions": {
+    "market_positions": [],
+    "event_positions": []
+  },
   "resting_orders": [],
   "recent_fills": []
 }
